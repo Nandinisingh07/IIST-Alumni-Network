@@ -1,0 +1,201 @@
+batch_year,branch,company,role,package_lpa,role_type,domain,location
+2019,EEE,Paytm,Software Engineer,16.3,on-campus,Power Systems,Bhopal
+2021,AIDS,Swiggy,Strategy Analyst,7.7,on-campus,Business Analytics,Mumbai
+2019,Cyber Security,L&T,Software Engineer,9.4,ppo,Ethical Hacking,Pune
+2019,DS,PhonePe,Research Scientist,20.1,on-campus,Data Science,Mumbai
+2019,ECE,Postman,Software Engineer,7.6,on-campus,Signal Processing,Bangalore
+2020,AIML,ONGC,AI Researcher,9.1,off-campus,AI/ML,Noida
+2019,Cyber Security,Zomato,SOC Analyst,18.7,on-campus,Cybersecurity,Indore
+2020,ECE,Siemens,RTL Engineer,14.6,off-campus,VLSI,Bhopal
+2019,DS,TCS,ETL Developer,7.1,ppo,Data Engineering,Chennai
+2019,AIDS,Oracle,Product Analyst,21.8,off-campus,Business Analytics,Kochi
+2017,EEE,Schneider Electric,Software Engineer,4.6,on-campus,Power Systems,Chennai
+2020,AIML,LTIMindtree,Software Engineer,6.1,on-campus,Robotics,Kolkata
+2018,IT,Microsoft,Software Engineer,35.5,ppo,Cloud Computing,Bhopal
+2018,AIDS,Tech Mahindra,Software Engineer,4.4,on-campus,NLP,Mumbai
+2016,Cyber Security,Schneider Electric,Software Engineer,7.8,ppo,Network Security,Pune
+2020,AIML,Axis Bank,AI Researcher,4.6,off-campus,AI/ML,Ahmedabad
+2017,IT,HDFC Bank,Software Engineer,6.7,on-campus,Cloud Computing,Bangalore
+2022,DS,NIC,Data Engineer,5.5,on-campus,Data Engineering,Delhi
+2022,IT,Chargebee,Software Engineer,11.8,on-campus,Cloud Computing,Chennai
+2021,ME,Siemens,Software Engineer,11.5,on-campus,Robotics,Mumbai
+2017,DS,Mphasis,Analytics Engineer,8.8,on-campus,Data Engineering,Kolkata
+2017,CE,Juspay,Software Engineer,5.9,ppo,Urban Planning,Pune
+2022,EEE,BrowserStack,Software Engineer,42.5,on-campus,Renewable Energy,Jaipur
+2021,DS,Adobe,Software Engineer,25.4,on-campus,Business Intelligence,Gurgaon
+2018,EEE,L&T,Software Engineer,9.3,on-campus,Power Systems,Hyderabad
+2022,DS,Postman,Data Scientist,7.3,on-campus,Data Science,Jaipur
+2020,IT,Razorpay,Software Engineer,33.0,off-campus,Web Development,Chennai
+2016,Cyber Security,Axis Bank,Software Engineer,4.9,on-campus,Cloud Security,Kochi
+2022,CSE,Capgemini,Data Scientist,7.9,ppo,Data Science,Noida
+2021,CE,Deutsche Bank,Software Engineer,8.5,off-campus,Structural Engineering,Bangalore
+2019,EEE,ICICI Bank,Software Engineer,8.7,off-campus,Control Systems,Chennai
+2018,IT,ISRO,Backend Engineer,7.2,ppo,Software Development,Ahmedabad
+2022,CE,Tata Motors,Software Engineer,11.8,on-campus,Urban Planning,Delhi
+2023,AIML,Mphasis,Software Engineer,11.9,on-campus,NLP,Ahmedabad
+2021,EEE,Leadsquared,Software Engineer,5.6,on-campus,Renewable Energy,Gurgaon
+2020,IT,Swiggy,Software Engineer,11.6,on-campus,Web Development,Delhi
+2017,CE,Slice,Software Engineer,7.7,off-campus,Construction,Bhopal
+2020,ECE,Cisco,Physical Design Engineer,23.5,off-campus,VLSI,Hyderabad
+2020,CSE,Deutsche Bank,Backend Engineer,8.6,off-campus,Software Development,Pune
+2019,Cyber Security,Darwinbox,Software Engineer,6.3,ppo,Cloud Security,Indore
+2019,ECE,Infosys,Physical Design Engineer,4.7,on-campus,VLSI,Kolkata
+2019,DS,Tech Mahindra,ETL Developer,8.2,on-campus,Data Engineering,Mumbai
+2023,DS,Mphasis,Data Engineer,7.5,on-campus,Data Engineering,Kochi
+2023,ECE,ABB,Software Engineer,13.7,on-campus,Signal Processing,Noida
+2020,AIML,Capgemini,NLP Engineer,7.6,on-campus,AI/ML,Bangalore
+2023,CE,L&T,Software Engineer,12.1,on-campus,Construction,Hyderabad
+2016,DS,Infosys,ETL Developer,4.2,off-campus,Data Engineering,Bhopal
+2018,DS,Mphasis,Software Engineer,8.6,off-campus,Business Intelligence,Delhi
+2023,Cyber Security,Deutsche Bank,Software Engineer,9.4,ppo,Cloud Security,Chennai
+2022,AIML,Wipro,Software Engineer,7.5,off-campus,Robotics,Gurgaon
+2023,IT,Juspay,Software Engineer,12.9,on-campus,Web Development,Hyderabad
+2020,ECE,ISRO,Software Engineer,9.6,off-campus,Signal Processing,Noida
+2018,AIML,CRED,Software Engineer,42.5,off-campus,Robotics,Pune
+2019,ME,ONGC,Software Engineer,8.0,on-campus,CAD/CAM,Kolkata
+2019,ME,Bosch,Software Engineer,16.5,on-campus,Automotive,Mumbai
+2022,CE,BHEL,Software Engineer,7.3,ppo,Urban Planning,Gurgaon
+2018,IT,Jupiter,Software Engineer,4.1,ppo,QA,Gurgaon
+2016,AIML,LTIMindtree,Software Engineer,4.9,ppo,NLP,Pune
+2018,DS,Cognizant,Software Engineer,6.3,off-campus,Business Intelligence,Indore
+2019,AIML,Groww,Software Engineer,31.6,ppo,NLP,Hyderabad
+2019,Cyber Security,Cisco,Software Engineer,16.9,ppo,Ethical Hacking,Pune
+2019,CE,L&T,Software Engineer,11.3,ppo,Construction,Kolkata
+2016,EEE,Schneider Electric,Software Engineer,8.4,on-campus,Renewable Energy,Noida
+2018,CE,Tech Mahindra,Software Engineer,6.7,on-campus,Urban Planning,Hyderabad
+2022,EEE,Accenture,Software Engineer,8.5,on-campus,Automation,Delhi
+2017,IT,Cognizant,Software Engineer,4.8,on-campus,Cloud Computing,Delhi
+2018,EEE,DRDO,Software Engineer,8.4,on-campus,Power Systems,Jaipur
+2020,ME,BARC,Software Engineer,9.8,on-campus,Manufacturing,Hyderabad
+2020,CE,BrowserStack,Software Engineer,26.5,ppo,Urban Planning,Ahmedabad
+2020,AIDS,Byju's,Data Analyst,8.8,ppo,Data Science,Mumbai
+2018,EEE,Juspay,Software Engineer,8.5,ppo,Renewable Energy,Noida
+2017,AIML,BrowserStack,Software Engineer,20.3,on-campus,Robotics,Delhi
+2017,AIDS,Tech Mahindra,Strategy Analyst,7.2,ppo,Business Analytics,Chennai
+2020,ECE,Mphasis,Physical Design Engineer,9.9,off-campus,VLSI,Gurgaon
+2023,IT,Tech Mahindra,Software Engineer,8.2,on-campus,Web Development,Bangalore
+2022,DS,LTIMindtree,Software Engineer,7.8,on-campus,Business Intelligence,Pune
+2016,ECE,Accenture,Software Engineer,5.4,ppo,IoT,Indore
+2018,Cyber Security,Mphasis,Software Engineer,7.4,ppo,Ethical Hacking,Delhi
+2021,CSE,HCL,NLP Engineer,8.1,on-campus,AI/ML,Jaipur
+2018,ECE,Mphasis,RTL Engineer,7.7,ppo,VLSI,Jaipur
+2023,Cyber Security,Tech Mahindra,Software Engineer,12.3,ppo,Cloud Security,Mumbai
+2020,ECE,Schneider Electric,RTL Engineer,5.0,on-campus,VLSI,Chennai
+2018,CE,Tech Mahindra,Software Engineer,7.7,on-campus,Structural Engineering,Bangalore
+2020,EEE,Swiggy,Software Engineer,10.5,off-campus,Automation,Bhopal
+2021,Cyber Security,Capgemini,Software Engineer,8.5,off-campus,Ethical Hacking,Jaipur
+2020,CE,Leadsquared,Software Engineer,10.0,on-campus,Construction,Delhi
+2018,ECE,Meesho,IoT Engineer,9.6,on-campus,Embedded Systems,Kochi
+2021,CSE,Razorpay,Platform Engineer,34.8,off-campus,DevOps,Mumbai
+2020,DS,Infosys,Data Analyst,5.6,on-campus,Data Science,Kolkata
+2021,AIDS,Wipro,Research Scientist,4.5,ppo,Data Science,Delhi
+2023,CE,ICICI Bank,Software Engineer,11.1,on-campus,Construction,Hyderabad
+2019,AIML,BARC,Software Engineer,9.8,ppo,Robotics,Kolkata
+2020,DS,Axis Bank,ETL Developer,5.4,off-campus,Data Engineering,Pune
+2017,Cyber Security,Oracle,Software Engineer,15.3,ppo,Cloud Security,Hyderabad
+2017,CSE,Tech Mahindra,Research Scientist,8.6,on-campus,Data Science,Mumbai
+2018,IT,Mphasis,Software Engineer,9.1,on-campus,Cloud Computing,Kochi
+2016,AIDS,LTIMindtree,Strategy Analyst,3.8,on-campus,Business Analytics,Gurgaon
+2021,ECE,Tata Motors,Software Engineer,6.8,on-campus,Signal Processing,Mumbai
+2023,AIML,Tech Mahindra,Software Engineer,9.8,ppo,Robotics,Chennai
+2020,AIML,Infosys,Software Engineer,6.7,ppo,Robotics,Noida
+2023,DS,Juspay,Software Engineer,8.9,on-campus,Business Intelligence,Delhi
+2022,DS,TCS,Data Engineer,5.3,on-campus,Data Engineering,Pune
+2021,ME,Schneider Electric,Software Engineer,7.7,ppo,CAD/CAM,Noida
+2016,EEE,BHEL,Software Engineer,6.3,off-campus,Automation,Chennai
+2023,DS,Zepto,Software Engineer,49.0,on-campus,Business Intelligence,Noida
+2023,ME,HCL,Software Engineer,8.8,off-campus,Robotics,Kolkata
+2017,ME,Schneider Electric,Software Engineer,5.3,off-campus,CAD/CAM,Kolkata
+2017,ECE,DRDO,Physical Design Engineer,7.3,on-campus,VLSI,Noida
+2019,AIML,Juspay,Software Engineer,7.8,on-campus,NLP,Bangalore
+2018,AIML,Axis Bank,Software Engineer,9.6,ppo,NLP,Gurgaon
+2020,AIML,L&T,Software Engineer,12.7,ppo,NLP,Hyderabad
+2020,CSE,Accenture,AI Researcher,8.8,on-campus,AI/ML,Hyderabad
+2019,CE,BHEL,Software Engineer,7.0,on-campus,Structural Engineering,Gurgaon
+2021,DS,Intel,ETL Developer,6.5,ppo,Data Engineering,Pune
+2023,IT,Chargebee,Software Engineer,11.7,ppo,Cloud Computing,Kochi
+2017,CE,L&T,Software Engineer,7.7,ppo,Construction,Jaipur
+2017,AIDS,Schneider Electric,AI Researcher,4.4,on-campus,AI/ML,Kochi
+2019,EEE,BHEL,Software Engineer,9.6,ppo,Renewable Energy,Jaipur
+2023,CSE,TCS,Data Scientist,7.5,ppo,Data Science,Jaipur
+2021,Cyber Security,Wipro,Software Engineer,6.0,off-campus,Ethical Hacking,Delhi
+2023,DS,Swiggy,Data Scientist,10.3,on-campus,Data Science,Chennai
+2016,EEE,Mphasis,Software Engineer,5.8,ppo,Power Systems,Delhi
+2019,EEE,HCL,Software Engineer,6.0,on-campus,Renewable Energy,Mumbai
+2021,CE,DRDO,Software Engineer,9.5,on-campus,Urban Planning,Kolkata
+2023,EEE,Bosch,Software Engineer,13.1,ppo,Renewable Energy,Pune
+2016,DS,Groww,Software Engineer,14.3,ppo,Business Intelligence,Hyderabad
+2023,Cyber Security,L&T,Security Analyst,8.5,on-campus,Cybersecurity,Ahmedabad
+2019,EEE,ISRO,Software Engineer,8.8,on-campus,Renewable Energy,Indore
+2022,AIDS,Accenture,Data Scientist,11.0,on-campus,Data Science,Delhi
+2019,EEE,NIC,Software Engineer,8.7,off-campus,Automation,Bhopal
+2018,ME,Siemens,Software Engineer,11.5,on-campus,Robotics,Bangalore
+2022,Cyber Security,BARC,Security Analyst,9.7,ppo,Cybersecurity,Pune
+2017,EEE,Zomato,Software Engineer,17.6,off-campus,Automation,Mumbai
+2022,DS,Paytm,Data Scientist,16.0,off-campus,Data Science,Jaipur
+2022,ECE,Tech Mahindra,Software Engineer,7.5,on-campus,Signal Processing,Jaipur
+2020,ECE,Oracle,Software Engineer,21.9,on-campus,Signal Processing,Kolkata
+2019,AIML,Tech Mahindra,Software Engineer,8.1,ppo,Robotics,Ahmedabad
+2022,IT,Wipro,Software Engineer,7.2,off-campus,Web Development,Indore
+2017,CE,HCL,Software Engineer,5.1,ppo,Urban Planning,Ahmedabad
+2019,ME,Schneider Electric,Software Engineer,6.5,off-campus,Automotive,Hyderabad
+2023,DS,Infosys,Data Scientist,5.0,ppo,Data Science,Hyderabad
+2023,AIDS,PhonePe,ML Engineer,42.4,on-campus,AI/ML,Indore
+2018,DS,HCL,Data Analyst,5.7,on-campus,Data Science,Indore
+2017,Cyber Security,Bosch,Penetration Tester,12.5,on-campus,Cybersecurity,Noida
+2018,DS,Wipro,ETL Developer,5.9,on-campus,Data Engineering,Chennai
+2018,AIML,Google,Software Engineer,53.4,off-campus,Computer Vision,Jaipur
+2016,DS,Chargebee,Software Engineer,7.1,off-campus,Business Intelligence,Chennai
+2019,IT,Ola,Software Engineer,8.0,off-campus,Web Development,Indore
+2017,DS,PhonePe,ETL Developer,19.3,off-campus,Data Engineering,Chennai
+2017,IT,Tech Mahindra,Software Engineer,7.7,on-campus,Web Development,Ahmedabad
+2023,EEE,Tech Mahindra,Software Engineer,13.1,on-campus,Renewable Energy,Bangalore
+2023,ECE,Siemens,VLSI Design Engineer,12.1,on-campus,VLSI,Hyderabad
+2022,EEE,Tata Motors,Software Engineer,9.4,ppo,Power Systems,Bangalore
+2019,IT,Infosys,Senior SDE,5.9,on-campus,Software Development,Hyderabad
+2018,EEE,CDAC,Software Engineer,5.6,ppo,Automation,Kolkata
+2020,Cyber Security,Zepto,Software Engineer,26.7,on-campus,Network Security,Jaipur
+2021,CE,Mphasis,Software Engineer,12.1,off-campus,Structural Engineering,Bangalore
+2020,DS,LTIMindtree,Data Analyst,5.2,on-campus,Data Science,Jaipur
+2016,EEE,Capgemini,Software Engineer,3.4,on-campus,Power Systems,Bangalore
+2021,CSE,Juspay,Penetration Tester,9.6,on-campus,Cybersecurity,Bhopal
+2017,ME,NIC,Software Engineer,5.0,ppo,Manufacturing,Noida
+2022,EEE,BARC,Software Engineer,9.3,on-campus,Renewable Energy,Pune
+2020,ME,Schneider Electric,Software Engineer,6.6,ppo,CAD/CAM,Kolkata
+2018,EEE,Oracle,Software Engineer,15.0,on-campus,Power Systems,Kochi
+2018,CSE,Tata Motors,Full Stack Developer,9.8,off-campus,Software Development,Hyderabad
+2021,ME,IIT Research,Software Engineer,6.7,on-campus,Robotics,Pune
+2022,CE,Cognizant,Software Engineer,6.5,ppo,Construction,Pune
+2021,EEE,TCS,Software Engineer,8.5,on-campus,Renewable Energy,Bhopal
+2016,CSE,Jupiter,ML Engineer,6.3,on-campus,Data Science,Hyderabad
+2017,CE,Accenture,Software Engineer,6.2,ppo,Construction,Noida
+2019,CSE,Accenture,Platform Engineer,5.9,ppo,DevOps,Bhopal
+2023,DS,Mphasis,Software Engineer,7.1,on-campus,Business Intelligence,Chennai
+2019,EEE,TCS,Software Engineer,4.5,ppo,Control Systems,Jaipur
+2019,ECE,Axis Bank,Software Engineer,5.8,on-campus,IoT,Bhopal
+2018,CSE,Wipro,Full Stack Developer,4.3,on-campus,Software Development,Pune
+2022,ECE,Tech Mahindra,VLSI Design Engineer,5.6,ppo,VLSI,Jaipur
+2017,CE,Bosch,Software Engineer,7.5,ppo,Construction,Kolkata
+2023,AIDS,JP Morgan,Software Engineer,30.2,on-campus,NLP,Kochi
+2017,ECE,Tata Motors,Software Engineer,4.6,on-campus,Signal Processing,Chennai
+2016,IT,LTIMindtree,Software Engineer,3.4,on-campus,QA,Kochi
+2020,IT,Chargebee,Software Engineer,5.9,on-campus,QA,Delhi
+2016,ME,Infosys,Software Engineer,5.1,ppo,Manufacturing,Noida
+2022,IT,HDFC Bank,Software Engineer,13.0,off-campus,Software Development,Pune
+2020,Cyber Security,Infosys,Penetration Tester,7.2,ppo,Cybersecurity,Kolkata
+2020,IT,Leadsquared,Software Engineer,8.6,ppo,QA,Pune
+2019,CE,Accenture,Software Engineer,8.8,on-campus,Structural Engineering,Mumbai
+2017,Cyber Security,Swiggy,Software Engineer,6.5,off-campus,Cloud Security,Mumbai
+2016,EEE,Bosch,Software Engineer,10.1,ppo,Control Systems,Hyderabad
+2021,Cyber Security,Tech Mahindra,SOC Analyst,10.8,off-campus,Cybersecurity,Chennai
+2016,ECE,Mphasis,Software Engineer,4.5,off-campus,Signal Processing,Bhopal
+2020,Cyber Security,Infosys,Software Engineer,6.3,ppo,Cloud Security,Mumbai
+2021,AIDS,L&T,Software Engineer,11.8,on-campus,NLP,Kochi
+2018,ME,ICICI Bank,Software Engineer,8.4,on-campus,Automotive,Pune
+2022,ME,Leadsquared,Software Engineer,12.0,ppo,Robotics,Kochi
+2017,DS,Darwinbox,Software Engineer,8.5,off-campus,Business Intelligence,Chennai
+2016,CE,Salesforce,Software Engineer,30.0,off-campus,Construction,Pune
+2019,CSE,L&T,AI Researcher,8.1,on-campus,AI/ML,Delhi
+2020,CSE,Deutsche Bank,SOC Analyst,7.1,on-campus,Cybersecurity,Jaipur
+2017,ECE,TCS,Software Engineer,5.3,on-campus,IoT,Bangalore
+2023,ME,DRDO,Software Engineer,10.2,off-campus,Manufacturing,Bhopal
