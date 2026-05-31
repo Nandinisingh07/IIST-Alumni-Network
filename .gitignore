@@ -1,24 +1,32 @@
-﻿# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+﻿# Virtual environments
 venv/
-.env
+env/
+
+# Database files
 *.db
 *.sqlite3
 
-# Temp/debug scripts
+# Environment variables (sensitive!)
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Debug/temp scripts
 backend/reset*.py
 backend/fix*.py
 backend/patch.py
 backend/check.py
 backend/cols.py
+frontend/fix*.py
+frontend/career_ai.db
 
 # Node
 node_modules/
 dist/
-frontend/.env
 
 # IDE
 .vscode/
